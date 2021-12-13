@@ -1,0 +1,39 @@
+body
+{
+    background-color: black;
+}
+textarea
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 400px;
+    height: 300px;
+    position: relative;
+    top: 160px;
+    border: none;
+    border-radius: 20px;
+}
+input
+{
+    position: relative;
+    top: 200px;
+    left: 920px;
+    border: none;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 .2rem #fff,
+    0 0 .2rem #fff,
+    0 0 2rem #e6e2e7,
+    0 0 0.8rem #fcfcfc,
+    0 0 2.8rem #bc13fe,
+    inset 0 0 1.3rem #bc13fe;
+}
+#btn{
+    position: relative;
+    left: 950px;
+    font-family: cursive;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+}

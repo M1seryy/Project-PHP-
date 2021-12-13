@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(7, 189, 7);
+}
+h1
+{
+    font-size: 50px;
+    position: relative;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 800px;
+    color: white;
+    font-family: cursive;
+}
+#button-return
+{
+border: none;
+font-size: 30px;
+border-radius: 30px;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+position: relative;
+top: 550px;
+left: 750px;
+font-family: cursive;
+}
+#button-again
+{
+    border: none;
+    font-size: 30px;
+    border-radius: 30px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 550px;
+    left: 700px;
+    font-family: cursive;
+}
+ 

@@ -1,0 +1,109 @@
+body
+{
+    background-color: black;
+}
+#startBTN
+{
+        background-color: white;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    border: none;
+    left: 600px;
+    top: 300px;
+
+}
+#road
+{
+    width: 170px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 660px;
+    top: 250px;
+}
+#lvl2BTN
+{
+    background-color: white;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    border: none;
+    left: 820px;
+    top: 200px;
+}
+#road2
+{
+    width: 170px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 770px;
+    top: 260px;
+    transform: rotate(90deg);
+}
+#lvl3BTN
+{
+    background-color: white;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    border: none;
+    left: 820px;
+    top: 300px;
+}
+#road3
+{
+    width: 170px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 870px;
+    top: 250px;
+    
+}
+#lvl4BTN
+{
+    background-color: white;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    border: none;
+    left: 1020px;
+    top: 200px;
+}
+#road4
+{
+    width: 170px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 1070px;
+    top:150px;
+    
+}
+#lvl5BTN
+{
+    background-color: white;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    border: none;
+    left: 1220px;
+    top: 38px;
+}
+#code
+{
+    position: relative;
+    border: none;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    left: 1000px;
+    bottom: 200px;
+}

@@ -1,0 +1,55 @@
+div{
+    margin: auto;
+    padding: auto;
+    width: 700px;
+    height: 300px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    color: rgb(169, 32, 194);
+    box-shadow: 0 0 .2rem rgb(15, 0, 0),
+    0 0 .2rem rgb(197, 161, 195),
+    0 0 2rem #bc13fe,
+    0 0 0.8rem #bc13fe,
+    0 0 2.8rem #bc13fe,
+    inset 0 0 1.3rem #bc13fe;
+    position: relative;
+    top: 200px;
+}
+body
+{
+    background-color: black;
+}
+#input_one
+{
+    position: relative;
+    right: 0px;
+    top: 100px;
+}
+#input_two
+{
+    position: relative;
+    right: 365px;
+    top: 140px;
+}
+h2
+{
+    position: relative;
+    font-family: cursive;
+    top: 30px;
+    left: 200px;
+}
+#submit
+{
+    position: relative;
+    left: 300px;
+    top: 170px;
+    border-radius: 30px;
+    border: none;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 .2rem rgb(15, 0, 0),
+    0 0 .2rem rgb(197, 161, 195),
+    0 0 2rem #bc13fe,
+    0 0 0.8rem #bc13fe,
+    0 0 2.8rem #bc13fe,
+    inset 0 0 1.3rem #bc13fe;
+}
